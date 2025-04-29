@@ -59,19 +59,24 @@ In bash
 
 
 #### Sample Output Screenshots
-- Client Side 
+- Client Side
+ 
 ![image](https://github.com/user-attachments/assets/39eca2a7-8b7f-44aa-a46c-2e3648459a8f)
 
 - S1 Server
+  
 ![image](https://github.com/user-attachments/assets/cf10b1cd-8d00-49ca-8b19-4d76a2b59cc9)
 
 - S2 Server
+  
 ![image](https://github.com/user-attachments/assets/46637e5c-46ba-41f7-a552-1de3a714d6dc)
 
 - S3 Server
+  
 ![image](https://github.com/user-attachments/assets/1a1501d7-e4be-45ff-b1ee-090bf3481f2c)
 
 - S4 Server
+  
 ![image](https://github.com/user-attachments/assets/7c742548-e18c-4721-b872-de20c8ad129a)
 
 
