@@ -44,18 +44,18 @@ Like the **uploadf command**, the following commands follow a similar structure.
 Use gcc to compile each file:
 
 In bash
-gcc -o S1 S1.c
-gcc -o S2 S2.c
-gcc -o S3 S3.c
-gcc -o S4 S4.c
-gcc -o w25clients w25clients.c
+- gcc -o S1 S1.c
+- gcc -o S2 S2.c
+- gcc -o S3 S3.c
+- gcc -o S4 S4.c
+- gcc -o w25clients w25clients.c
 
 **Assumptions**
-All client communication is via S1; 
-S2–S4 do not interact with clients.
-Directory structure under ~/S1 must be mirrored in S2–S4.
-Clients must only use .c, .pdf, .txt, or .zip files.
-All files are moved from S1 to their respective backend servers after upload (if not .c).
+- All client communication is via S1; 
+- S2–S4 do not interact with clients.
+- Directory structure under ~/S1 must be mirrored in S2–S4.
+- Clients must only use .c, .pdf, .txt, or .zip files.
+- All files are moved from S1 to their respective backend servers after upload (if not .c).
 
 
 #### Sample Output Screenshots
