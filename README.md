@@ -5,7 +5,7 @@ Distributed File System through socket programming
 
 ## Overview
 
-This project implements a **Distributed File System** using **socket programming in C** as part of the COMP-8567 course. It simulates a client-server model where clients interact with a single main server (S1), which distributes files in the background to three other servers (S2, S3, S4) based on file type. Clients are unaware of this distribution and assume all files are stored on S1.
+This project implements a **Distributed File System** using **socket programming in C**. It simulates a client-server model where clients interact with a single main server (S1), which distributes files in the background to three other servers (S2, S3, S4) based on file type. Clients are unaware of this distribution and assume all files are stored on S1.
 
 ## Architecture
 
