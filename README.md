@@ -34,10 +34,10 @@ uploadf sample.c ~S1/folder1/folder2
 
 Like the **uploadf command**, the following commands follow a similar structure.
 
-downlf ~S1/folder1/folder2/sample.txt
-removef ~S1/folder1/folder2/sample.pdf
-downltar .txt
-dispfnames ~S1/folder1
+- downlf ~S1/folder1/folder2/sample.txt
+- removef ~S1/folder1/folder2/sample.pdf
+- downltar .txt
+- dispfnames ~S1/folder1
 
 
 #### **How to Compile**
